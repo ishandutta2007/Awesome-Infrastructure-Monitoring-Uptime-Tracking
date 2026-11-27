@@ -69,7 +69,7 @@ Commercial, cloud-hosted uptime monitoring services, global synthetic testing ne
 
 ## 🔓 Open-Source Equivalents & Tools
 
-Free and open-source software (FOSS) self-hosted uptime trackers, status pages, Prometheus/metrics stacks, lightweight server monitors, and cron heartbeat tools. Each project features an interactive GitHub star badge linking to its stargazers page and is sorted by star count in descending order.
+Free and open-source software (FOSS) self-hosted uptime trackers, status pages, Prometheus/metrics stacks, lightweight server monitors, and cron heartbeat tools. Each project features an interactive GitHub Stars_Badge linking to its stargazers page and is sorted by Stars_Count in descending order.
 
 ### ⚡ Self-Hosted Uptime Monitors & Synthetic Probes
 
